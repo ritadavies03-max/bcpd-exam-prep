@@ -1,0 +1,6 @@
+{
+  "name": "Exam Preparation Quiz Master",
+  "description": "Interactive exam preparation quiz platform that generates practice tests based strictly on uploaded PDF content, complete with scoring, answer review, and detailed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
